@@ -1,0 +1,24 @@
+html,body{
+    margin: 0;
+    background-color: lightblue;
+    height: 100%;
+}
+header{
+    display: flex;
+    background-color: snow;
+    width: 100%;
+    height: 7%;
+    justify-content: space-between;
+}
+.shapka{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    position: relative;
+    left:2%;
+}
+p{
+    margin-inline-end: 20px;
+    font-family: 'Montserrat';
+}
